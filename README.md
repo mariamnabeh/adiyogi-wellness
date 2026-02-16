@@ -1,106 +1,69 @@
-# Adiyogi Wellness
+# Adiyogi Wellness 🧘‍♂️✨
 
-✨ **AdiYogi Wellness** is a health and wellness platform focused on yoga, meditation, and overall well-being.  
-The project includes both frontend and backend components to provide a complete wellness experience.
-
----
-
-## 🧠 Project Overview
-
-AdiYogi Wellness aims to help users improve their physical and mental health by providing:
-- Yoga sessions 🧘‍♀️
-- Meditation exercises 🧘‍♂️
-- User registration and management
-- Tracking wellness progress
-- API endpoints for frontend integration
+**Adiyogi Wellness** is a comprehensive health and wellness platform designed to bridge the gap between ancient practices and modern technology. By combining yoga, meditation, and AI-driven emotional support, we empower users to take control of their physical and mental well-being in a single, responsive experience.
 
 ---
 
-## 🧩 Features
+## 🧠 Project Vision
 
-- User authentication (signup/login)
-- CRUD operations for wellness data
-- Frontend ↔ Backend integration
-- Responsive design
-- Tracking yoga and meditation progress
+In today's fast-paced world, mental and physical health are often treated separately. **AdiYogi Wellness** integrates them by providing a space for tracking physical progress (Yoga) alongside an **AI-ML Therapy System** that is emotion-aware, ensuring a holistic approach to healing.
 
 ---
 
-## 🛠️ Technologies Used
+## 🧩 Key Features
 
-**Frontend:**
-- TypeScript
-- React
-
-**Backend:**
-- Python
-- FastAPI / Django / Flask
-
-**Database:**
-- MongoDB or SQL
-
-**Other Tools:**
-- Git
-- Docker (optional)
+* **Holistic Wellness Tracking:** Manage and track your progress in yoga and meditation sessions.
+* **Emotion-Aware AI Therapy:** An advanced ML-powered chat system that understands your emotional state to provide better support.
+* **Personalized Profiles:** Secure user management with custom bios, profile photos, and health reports.
+* **Digital Resource Library:** Access a curated collection of wellness ebooks categorized by mental health needs.
+* **Modern User Experience:** A beautiful, responsive frontend built with TypeScript and React.
 
 ---
 
-## 📦 Prerequisites
+## 🛠️ Tech Stack
 
-Before running the project, make sure you have:
-Node.js
-Python
-MongoDB / PostgreSQL
-
+| Component | Technology |
+| --- | --- |
+| **Frontend** | TypeScript, React, Tailwind CSS |
+| **Backend** | Python, Django |
+| **Database** | NoSQL (MongoDB) for flexible data management |
+| **AI/ML** | Emotion recognition and AI therapy logic |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
-### 1️⃣ Clone the repository
+### 1. Prerequisites
+
+Ensure you have **Node.js**, **Python**, and **MongoDB** installed.
+
+### 2. Setup
+
+```bash
+# Clone the project
 git clone https://github.com/ArpanCharola/adiyogi-wellness.git
-
 cd adiyogi-wellness
 
-
----
-
-### 2️⃣ Run the Backend
+# Backend Setup
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload
+python manage.py runserver
 
-
----
-
-### 3️⃣ Run the Frontend
-cd frontend
+# Frontend Setup
+cd ../frontend
 npm install
 npm start
 
+```
 
 ---
 
-## 🧑‍💻 Contributing
+## 🧑‍💻 The Team
 
-1. Fork the repository
-2. Create a new branch  
-   `git checkout -b feature/your-feature`
-3. Commit your changes
-4. Push to your branch  
-   `git push origin feature/your-feature`
-5. Open a Pull Request
+Built with passion by **Arpan Charola** and team to make wellness accessible to everyone.
 
 ---
 
 ## 📬 Contact
 
-For questions or suggestions, reach out via GitHub.
-
-
-
-
-
-
-
-
+Have questions or suggestions? Reach out via [GitHub](https://www.google.com/search?q=https://github.com/ArpanCharola).
